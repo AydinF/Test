@@ -12,7 +12,7 @@ namespace Test2
         {
             Console.WriteLine("Hello World");
             //Satır 2
-
+            // Satır 3
         }
     }
 }
